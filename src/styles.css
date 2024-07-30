@@ -1,0 +1,8 @@
+.red-border-button {
+    -fx-border-color: red;
+}
+
+.tool-button-active {
+    background-color: #a0a0a0; /* Example gray background for active tool */
+    border-color: #606060; /* Darker border for emphasis */
+}
