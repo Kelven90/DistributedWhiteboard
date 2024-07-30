@@ -1,5 +1,5 @@
 ## Introduction
-This is a univesity project for implementing a distributed shared whiteboard application.
+This is a university project for implementing a distributed shared whiteboard application.
 It is a dynamic, collaborative platform that enables multiple users to interact simultaneously on a common canvas.
 
 ## How to run
